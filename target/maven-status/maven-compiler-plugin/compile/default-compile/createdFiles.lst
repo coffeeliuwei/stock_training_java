@@ -1,0 +1,12 @@
+com\tushare\stocktraining\service\DataFetcherService.class
+com\tushare\stocktraining\StockTrainingApplication.class
+com\tushare\stocktraining\service\IndicatorService.class
+com\tushare\stocktraining\model\Stock.class
+com\tushare\stocktraining\model\StockIndicator.class
+com\tushare\stocktraining\model\StockIndicator$StockIndicatorBuilder.class
+com\tushare\stocktraining\model\Stock$StockBuilder.class
+com\tushare\stocktraining\config\DataInitializer.class
+com\tushare\stocktraining\model\StockDaily.class
+com\tushare\stocktraining\config\AppConfig.class
+com\tushare\stocktraining\model\StockDaily$StockDailyBuilder.class
+com\tushare\stocktraining\service\DataProcessorService.class
